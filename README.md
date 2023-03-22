@@ -25,6 +25,8 @@ When you submit a pull request, a CLA-bot will automatically determine whether y
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 
+Terminal command list:
+
   378  virtualenv venv
   379  source venv/bin/activate
   380  pip install -r requirements.txt
@@ -33,3 +35,4 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
   384  python manage.py migrate
   385  python manage.py runserver
   387  python manage.py loaddata initial_shopping_items.json
+
